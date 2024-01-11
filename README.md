@@ -1,3 +1,3 @@
 # DMOPersonal
-my first repositry
+my first repository
 Author Dinesh
